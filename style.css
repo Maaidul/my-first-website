@@ -16,10 +16,12 @@ h1{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+    
 }
 
 .half-width img{
     width: 100%;
+    
 
 }
 .top-banner{
@@ -53,4 +55,7 @@ section{
     background-repeat: no-repeat;
     background-position: right;
     
+}
+footer{
+    text-align: center;
 }
